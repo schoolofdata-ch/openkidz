@@ -21,13 +21,12 @@
       "schema": {
         "fields": []
       }
-    },
-      {
-        "path": "data/locations-only.csv",
-        "schema": {
-          "fields": []
-        }
+    },{
+      "path": "data/locations-only.csv",
+      "schema": {
+        "fields": []
       }
+    }
   ],
   "maintainers":[{
     "name": "School of Data CH",
