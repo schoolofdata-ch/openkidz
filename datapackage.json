@@ -1,9 +1,9 @@
 {
-  "name": "datapackage-boilerplate",
-  "title": "A Boilerplate Data Package",
+  "name": "openkidz-datapackage",
+  "title": "OpenKidz Data Package",
   "format": "csv",
   "datapackage_version": "1.0.0",
-  "last_modified": "2018-01-01",
+  "last_modified": "2018-08-26",
   "licenses": [{
     "name": "ODC-PDDL-1.0",
     "path": "http://opendatacommons.org/licenses/pddl/",
@@ -11,18 +11,16 @@
   }],
   "sources": [
     {
-      "name": "Sample Data Source",
-      "web": "http://www..."
+      "name": "KibeSuisse",
+      "web": "https://www.kibesuisse.ch/verband/mitglieder/mitglieder-suchen/"
     }
   ],
   "resources": [
     {
-      "path": "data/some-good-data.csv",
+      "path": "data/openkidz.csv",
       "schema": {
         "fields": []
       }
-    },{
-      "path": "data/the-raw-data.xls"
     }
   ],
   "maintainers":[{
