@@ -1,6 +1,9 @@
 The [Truth WithIn STatistics 2018](https://twist2018.ch) hackathon was one of the first events of its kind that provided a childcare facility as part of the event. Together with the childcare team from the University of Zürich that supported the event ([kihz.uzh.ch](https://www.kihz.uzh.ch/)), we investigated the question of whether event organizers or even parents in general had access to open data about childcare providers in Switzerland, and decided to make open data. The result is a [Data Package](https://frictionlessdata.io/field-guide/) which can be used to analyze, visualize, and crowdsource more information about childcare providers in Switzerland or worldwide.
 
-<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Heard of the TWIST Hackdays💻? It&#39;s a diversity-friendly Hackathon in Zurich, 25-26 August. Parents are also welcome to participate - there is even the possibility of full childcare service during the event👶 Carefree &amp; Happy Hacking! <a href="https://t.co/P6PC8yHCLh">https://t.co/P6PC8yHCLh</a>  <a href="https://twitter.com/hashtag/hackdays?src=hash&amp;ref_src=twsrc%5Etfw">#hackdays</a> <a href="https://twitter.com/hashtag/TWIST2018?src=hash&amp;ref_src=twsrc%5Etfw">#TWIST2018</a></p>&mdash; Django Girls Zürich (@DjangoGirlsZH) <a href="https://twitter.com/DjangoGirlsZH/status/1027451529266188293?ref_src=twsrc%5Etfw">9 août 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Heard of the TWIST Hackdays💻? It&#39;s a diversity-friendly Hackathon in Zurich, 25-26 August. Parents are also welcome to participate - there is even the possibility of full childcare service during the event👶 Carefree &amp; Happy Hacking! <a href="https://twitter.com/hashtag/hackdays?src=hash&amp;ref_src=twsrc%5Etfw">#hackdays</a> <a href="https://twitter.com/hashtag/TWIST2018?src=hash&amp;ref_src=twsrc%5Etfw">#TWIST2018</a></p>&mdash; Django Girls Zürich (@DjangoGirlsZH) <a href="https://twitter.com/DjangoGirlsZH/status/1027451529266188293?ref_src=twsrc%5Etfw">9 août 2018</a></blockquote>
+
+![](https://pbs.twimg.com/media/Dlh2PYEWwAA6Ppo.jpg:large)
+&mdash; TWIST2018 (@TWIST2018) <a href="https://twitter.com/TWIST2018/status/1033706150477406209?ref_src=twsrc%5Etfw">26 août 2018</a>
 
 # Data
 
@@ -18,7 +21,7 @@ On the member search web application maintained publicly by Kibesuisse we were a
 
 We propose the following basic schema for this Data Package:
 
-- **Land/Kanton/Ort** - localisation information, which we will expand with georeferences
+- **Land/Kanton/Ort** - localisation information, which we will expand with georeferences via `data/locations-only.csv`
 - **URL** - original web address obtained from the database
 - **Kibesuisse** - 'Ja' if this childcare is part of the Kibesuisse network
 - **QualiKita** - 'Ja' if this childcare is part of the QualiKita network
