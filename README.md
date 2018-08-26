@@ -2,8 +2,8 @@ The [Truth WithIn STatistics 2018](https://twist2018.ch) hackathon was one of th
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Heard of the TWIST Hackdays💻? It&#39;s a diversity-friendly Hackathon in Zurich, 25-26 August. Parents are also welcome to participate - there is even the possibility of full childcare service during the event👶 Carefree &amp; Happy Hacking! <a href="https://twitter.com/hashtag/hackdays?src=hash&amp;ref_src=twsrc%5Etfw">#hackdays</a> <a href="https://twitter.com/hashtag/TWIST2018?src=hash&amp;ref_src=twsrc%5Etfw">#TWIST2018</a></p>&mdash; Django Girls Zürich (@DjangoGirlsZH) <a href="https://twitter.com/DjangoGirlsZH/status/1027451529266188293?ref_src=twsrc%5Etfw">9 août 2018</a></blockquote>
 
-![](https://pbs.twimg.com/media/Dlh2PYEWwAA6Ppo.jpg:large)
-&mdash; TWIST2018 (@TWIST2018) <a href="https://twitter.com/TWIST2018/status/1033706150477406209?ref_src=twsrc%5Etfw">26 août 2018</a>
+![](https://pbs.twimg.com/media/DlbWJIVWwAE_IZT.jpg:large)
+&mdash; TWIST2018 (@TWIST2018) <a href="https://twitter.com/TWIST2018/status/1033248634417172481">25 août 2018</a>
 
 # Data
 
