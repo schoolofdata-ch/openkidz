@@ -1,11 +1,14 @@
-The [Truth WithIn STatistics 2018](https://twist2018.ch) hackathon was one of the first events of it's kind that provided a childcare facility as part of the event. Together with the childcare team we investigated the question of whether event organizers or even parents in general had access to open data about childcare providers in Switzerland. Since we could not find anything of the kind, we decided to make some open data ourselves. The result is a Data Package which can be used to analyse, visualize, and crowdsource more information about childcare providers.
+The [Truth WithIn STatistics 2018](https://twist2018.ch) hackathon was one of the first events of its kind that provided a childcare facility as part of the event. Together with the childcare team from the University of Zürich that supported the event ([kihz.uzh.ch](https://www.kihz.uzh.ch/)), we investigated the question of whether event organizers or even parents in general had access to open data about childcare providers in Switzerland, and decided to make open data. The result is a [Data Package](https://frictionlessdata.io/field-guide/) which can be used to analyze, visualize, and crowdsource more information about childcare providers in Switzerland or worldwide.
 
 # Data
 
-Note that there are sources of statistical Open Government Data about childcare, for example searching the [Opendata.swiss portal](https://opendata.swiss/de/dataset?q=kinderbetreuung) we found a detailed list of [day care centers in the city of Zürich](https://data.stadt-zuerich.ch/dataset/sd_zv_kitas_schulkreis) on the basis of key figures according to school groups since 2014.
+Note that there are sources of statistical Open Government Data about childcare, for example searching the [Opendata.swiss portal](https://opendata.swiss/de/dataset?q=kinderbetreuung) we found a detailed list of day care centers in the City of Zürich on the basis of key figures according to school groups since 2014. Key figures in this dataset include the number of childcare places, the number of children of pre-school age and the care rate per school group. See [data.stadt-zurich.ch](https://data.stadt-zuerich.ch/dataset/sd_zv_kitas_schulkreis)
 
-The key figures include the number of childcare places, the number of children of pre-school age and the care rate per school group.
+The best starting point for researching childcare centers is [KibeSuisse](https://www.kibesuisse.ch/verband/ueber-kibesuisse/kibesuisse-stellt-sich-vor/), the Swiss Childcare Association - a competence centre for family and school-accompanying childcare.
 
+> "Kibesuisse fördert den qualitativen und quantitativen Ausbau familien- und schulergänzender Kinderbetreuungsangebote." *(Kibesuisse promotes the qualitative and quantitative expansion of family and school supplementary childcare services.)*
+
+Note that there a number of interesting [research publications](https://www.kibesuisse.ch/publikationen/) on their homepage, where criteria for admission in the network and evaluation can be found.
 
 - [KibeSuisse](https://www.kibesuisse.ch/verband/mitglieder/mitglieder-suchen/?tx_iskibesuissemitglieder_suche[action]=search&tx_iskibesuissemitglieder_suche[controller]=Mitglieder&tx_iskibesuissemitglieder_suche[canton]=ZG)
 - [Qualikita](https://www.quali-kita.ch/de/fuer-eltern/zertifizierte-kitas/)
